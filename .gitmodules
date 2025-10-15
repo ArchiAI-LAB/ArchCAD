@@ -1,0 +1,3 @@
+[submodule "modules/pointops"]
+	path = modules/pointops
+	url = https://github.com/YodaEmbedding/pointops.git

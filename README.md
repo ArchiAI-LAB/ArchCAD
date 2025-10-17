@@ -7,7 +7,7 @@
  
 <div align="center">
  
-[![arXiv](https://img.shields.io/badge/arXiv-2503.22346-b31b1b.svg)](https://arxiv.org/abs/2503.22346)  [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-red)](your-arxiv-link)  [![Dataset](https://img.shields.io/badge/Dataset-Coming%20Soon-blue)](huggingface-link)  [![License](https://img.shields.io/badge/License-ACADEMIC-green)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2503.22346-b31b1b.svg)](https://arxiv.org/abs/2503.22346)  [![Code](https://img.shields.io/badge/Code-Github-blue)](https://github.com/ArchiAI-LAB/ArchCAD)  [![Dataset](https://img.shields.io/badge/Dataset-HuggingFace-yellow)](https://huggingface.co/datasets/jackluoluo/ArchCAD)  [![License](https://img.shields.io/badge/License-ACADEMIC-green)](LICENSE)
  
 </div>
 
@@ -49,7 +49,7 @@ bash install.sh
 
 #### ArchCAD-400K
 
-We are pleased to announce the initial public release of the ArchCAD dataset. This first batch opens a curated subset of 40K high-quality samples, representing a more refined portion of the full collection. This release aims to facilitate preliminary research, with plans for subsequent releases in the future. Please visit our <a href="https://huggingface.co/" style="text-decoration: underline;">HuggingFace</a> page and download the dataset.
+We are pleased to announce the initial public release of the ArchCAD dataset. This first batch opens a curated subset of 40K high-quality samples, representing a more refined portion of the full collection. This release aims to facilitate preliminary research, with plans for subsequent releases in the future. Please visit our <a href="https://huggingface.co/datasets/jackluoluo/ArchCAD" style="text-decoration: underline;">HuggingFace</a> page and download the dataset.
 
 
 #### FloorplanCAD 

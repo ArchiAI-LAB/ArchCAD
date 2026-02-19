@@ -42,7 +42,7 @@ Download the required pretrained model weights:
 
 ```bash
 cd svgnet/pretrained
-bash install.sh
+bash download.sh
 ```
 
 ### Dataset&Preprocess
